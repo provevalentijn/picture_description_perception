@@ -9,3 +9,31 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r load packages}
+library(tidytext)
+library(dplyr)
+library(tidyr)
+```
+
+
+```{r merge transcriptions and info}
+t <- read.csv("pd_transcr_nns_nl.csv", encoding = "UTF-8")
+i <- read.csv("pd_participant_informatie.csv", sep = ";")
+
+t$Bestand <- tolower(t$Bestand)
+i$Bestand <- paste0(i$File, ".eaf")
+ti <- merge(t, i, by = "Bestand")
+```
+
+```{r compute frequencies for gym}
+ti_gym <- subset(ti, item == "gym")
+
+gym_text <- as.character(ti_gym$s1)
+
+gym_text_df <- tibble(line = 1:length(gym_text),text = gym_text)
+
+gym_freqs <- gym_text_df %>%
+  unnest_tokens(word, text) %>%
+  count(word, sort = TRUE)
+```
+
