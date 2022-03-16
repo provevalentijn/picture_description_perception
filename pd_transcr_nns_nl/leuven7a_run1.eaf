@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-07-11T14:20:30+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/Noa/job/leuven7a_run1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./leuven7a_run1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:cd0181b2-3712-4cda-ad5b-9eac262dd478</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">79</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="17055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="17640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="20867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="23132"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="23243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23839"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="23900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="29331"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="29581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="30430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="30692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="36939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="39132"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="41022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="42674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="46850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="48519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="52209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="53751"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="59834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="65607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="67370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="70270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="71348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="72535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="75381"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="76359"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="77440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="78353"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="78668"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="80441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="81042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="83591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="84513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="91541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="92149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="92790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="93502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="94430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="95089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="98324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="98608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="99342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="100274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="102878"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="103254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="103944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="106491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="106790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="107540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="110524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="113160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="117127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="119013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="120613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="120762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="123721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="124257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="125198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="126044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="128640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="129099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="132154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="132992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="133320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="133513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="137403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="137925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="141298"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="141966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="142972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="143049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="144237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="145110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="149541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="149640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="150403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="151027"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="151517"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>dus het zijn allemaal kindjes in een turnzaal die aan 't sporten zijn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>euhm er zijn er twee die op zo 'n klimrek bezig zijn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>er is er eentje met zo 'n hoepel bezig</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>eentje op de trampoline</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>euhm twee die in touwen aan 't klimmen zijn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>eentje aan 't zwemmen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>drie die push-ups aan het doen zijn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>euhm wat zat er nog tussen twee die zo onder onder van die planken aan 't kruipen zijn samen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>die twee die zo onder van die planken aan het kruipen zijn op de grond euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>'t is meestal zo 'n combinatie jongen meisje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>euhm 't is in een turnzaal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>'k weet niet of ik er nog iets speciaal over kan zeggen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>euhm 't klimrek is vanachter en dan zit het klimrek dan heb je de touwen dan heb je hier het zwembad</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>hier de hoepel hier de planken waar ze onder kruipen euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>hier de mat waar ze push-ups aan het doen zijn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>en ervoor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>nog matten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>(waar ze push-ups aan 't doen (zijn))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>euhm twee vier vijf zes zeven acht negen tien elf denk ik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>volgens mij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>die doen push-ups en dan is er ja twee vanvoor en eentje dan iets meer naar achter</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>dus in een turnzaal allemaal verschillende sporten aan het doen twee vanachter op een klimraam twee in de touwen aan het klimmen dat zijn twee jongetjes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>euhm eentje die in een zwembad speelt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>één die op een trampoline springt die omhoog dus die vanboven in de sprong zit</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>euhm eentje die met een hup een hoelahoep zo aan het spelen is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>drie die pompen eentje die onder planken kruipt nee twee die op de planken kruipen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>sorry kun (  )</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>oke mag ik haar vragen stellen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>dus euhm hoeveel mensen zijn zijn er in totaal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>en de drie zijn wat wat doen zij nog</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>push-ups oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ja nog vra m moet ik nog vragen stellen of</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>euhm dus drie doen push-ups (en een balk)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>herhaal nog nog het begin sorry</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>op een klimraam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>één (    )</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

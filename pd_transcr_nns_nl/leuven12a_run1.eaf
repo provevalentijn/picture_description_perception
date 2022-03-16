@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-07-27T23:32:22+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/Noa/job/leuven12a_run1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./leuven12a_run1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5b279f23-df5e-4f75-91af-c84709762210</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17367"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="18750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="18750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="23014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23434"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="27990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="28270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="31283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="36240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="36589"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="38495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="38570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="39780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="40028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="42033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="42764"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="44976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="45320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="46816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="47457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="48787"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>euhm dus 't beeld was eigenlijk een een meer waarin heel veel mensenen dieren waren</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>in de rechterbovenhoek zag je een koe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>die daar niet hoorde, denk ik@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>in de linkeronderhoek euhm waren er eendjes er waren ook heel veel mensen er waren mensen de eendjes aan 't voederen waren er waren euhm de zwanen aan 't voederen waren</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>er waren mensen dingen aan 't kopen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>er stond links ook een soort kiosk waarin men ijsjes en zo verkoopt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>in de verte zag je een stad euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>er waren ook vogels in de lucht</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ja en ook heel veel dieren (  ) zwanen eenden denk ook eekhoorns</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>zwanen in het meer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ah euhm vanonder meer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>beetje meer rechts denk ik </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>waar zijn de euhm de zwanen in</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>en waar (zwemmen zij of euhm waar ligt)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

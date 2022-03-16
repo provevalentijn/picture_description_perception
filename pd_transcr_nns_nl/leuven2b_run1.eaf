@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-07-16T15:05:45+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/Noa/job/leuven2b_run1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./leuven2b_run1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3f0ba021-c88a-4b5f-9caf-f9f53452cba3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19924"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="24419"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25249"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="27820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="28438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="30410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="34750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="39136"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>dus euhm aan de rechterkant is zijn er een paar bomen in de en helemaal vanboven zit er een eekhoorn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>en dan links is er een paddenstoel helemaal links beneden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>en dan in 't midden staan drie personen euhm eentje meer links en de andere twee meer rechts</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>en wacht he (ja wat zijn er nog) links vanboven een vogel maar 'k weet niet we@lke vo@gel dat dat is dus ja @</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>(            ) euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>wat is er nog</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ja vanvoor rechts zijn er ook heel veel bladeren die bruin zijn en dan links meer geel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ja dat denk ik @ niet verder niets meer weet @</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

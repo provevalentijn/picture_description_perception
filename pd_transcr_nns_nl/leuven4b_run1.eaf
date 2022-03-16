@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-07-18T13:19:38+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/Noa/job/leuven4b_run1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./leuven4b_run1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a3d00013-10bb-4858-b6bc-ef9f74d2fe81</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">68</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8093"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="12931"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="13629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="20520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="22269"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="22361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="22820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22899"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="25613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="26040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="27527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="30226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="30748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="32098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="32785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="34625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="34650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="35110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="35193"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="36777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="37190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="40484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="43073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="43122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44423"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="45434"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="45558"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="46398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="46520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="47024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="47638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="48049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="48208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="49558"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="50895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="51447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="52011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="52162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="52324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="56638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="56709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="58386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="58417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="59990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="60794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="65639"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="66147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="66282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="66985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="67343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="68167"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="69197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="70317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="71312"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="71587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="74073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="74526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="76184"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="76349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="76700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="76822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="79049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="79487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="80572"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="81920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="84010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="84631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="85515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="87227"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="89018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="89110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="89566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="89695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="91182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="91480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="91882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="92060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="93483"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="93680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="95347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="96343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="97349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="97748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="99043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="100503"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="102288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="102306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="103589"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="104043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="107392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="107404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="109539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="109601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="109797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="110208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="113361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="113980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="119263"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="119355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="120152"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>oke euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>dus het speelt zich af in een bos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>in het bos heb je twee kinderen en een mama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>de linkse het linkse kind draagt een rode jas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>euhm op de voorgrond zie je veel vanvoor staat er heel veel blaadjes eikels</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>er zijn vier bomen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>(ik ben nog) aan 't denken</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>er zijn heel veel dieren ook in het bos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>euhm links twee eekhoorns </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>en rechts een egel </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>er zijn nog heel veel andere dieren in het b@os</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>maar euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>paddenstoelen ook heel veel paddenstoelen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>euhm voorgrond voorgrond</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>en helemaal op de achtergrond zie je nog allemaal struiken groene dikke struiken</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>struiken euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>geen bomen maar wat er tussen de bomen staat kleine groene bosjes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>zo oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>voor de rest</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>het rechtse kindje geeft een hand aan de mama en het linkse loopt alleen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>en zij heeft zij is degene met de rode jas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>ik denk dat dat ongeveer @ alles is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>voor de rest</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>er zit ook nog een uil in de boom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>'k weet wel niet meer welke b@oom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>maar er zit ook nog een uil in de boom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>ik denk dat dat het ongeveer was</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>heb jij nog vragen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>ja ze zijn aan 't lachen en de mama is bezig met het kindje en het andere kindje is alleen aan 't lopen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ja van de van het kindje alleen wel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>van de mama en euhm het tweede kindje iets minder omdat ze een beetje gedraaid staan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="s2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>paddenstoelen enzovoort</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>ja kijk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>en onder (        ) misschien iets iets anders</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>ah (    )</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>oke maar wat zijn wat zijn struiken</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ah ja ja ja ja oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>mh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>@</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>euhm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>zijn de mensen vriendelijkheid</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>en kunnen wij hun gezichten zien of</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>ah oke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
